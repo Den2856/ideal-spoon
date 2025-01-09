@@ -335,7 +335,6 @@ input[type="email"] {
 .woman-image {
   position: absolute;
   top: -88px;
-  right: -25px;
   z-index: 2;
   height: 500px;
 }
