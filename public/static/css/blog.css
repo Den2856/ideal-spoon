@@ -38,7 +38,7 @@ body {
   display: flex;
   width: 52%;
   height: 70px;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
   background-color: #222;
   transform: translateY(0);
